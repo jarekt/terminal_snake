@@ -1,5 +1,5 @@
 #include <time.h>
-#include "../jlib/jlib.h"
+#include "jlib/jlib.h"
 #define BORDER '#'
 #define FOOD '@'
 #define SNAKE 'S'
