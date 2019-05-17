@@ -1,0 +1,3 @@
+[submodule "jlib"]
+	path = jlib
+	url = https://github.com/jarekt/jlib.git
