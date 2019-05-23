@@ -1,7 +1,7 @@
-Snake game in c for terminal/winconsole with scaleable resolution
+Snake game written in c for terminal/winconsole with scaleable resolution
 ===
 
-The game uses my simple cursor manipulation library (jlib) and scales with terminal resolution.
+The game uses my simple cursor manipulation library ([jlib](https://github.com/jarekt/jlib)) and scales with terminal resolution.
 
 ## demo pictures
 ![high_res](img/snake1.png)
