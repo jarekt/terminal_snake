@@ -85,7 +85,7 @@ void drawSnake()
     
 }
 
-void drawFood()//posibly not needed
+void drawFood()
 {
     gotoxy(Snake.food.x, Snake.food.y);
     putchar(FOOD);
@@ -122,7 +122,6 @@ void moveSnake()//remove tail, move array, add new head based on direction
             x++;
             break;    
         default:
-            //wut??
             break;
     }
     Snake.xy[0].x = x;
