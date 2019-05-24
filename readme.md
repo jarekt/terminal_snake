@@ -11,6 +11,6 @@ The game uses my simple cursor manipulation library ([jlib](https://github.com/j
 * low res example running in [cool retro term](https://github.com/Swordfish90/cool-retro-term)
 
 ## known problems
-* the speed increase value (when the snake eats food) should be edited to a more fun value (this can be edited in the detect collision function)
+* the speed increase value (when the snake eats food) should be changed to a more fun value (this can be edited in the detect collision function)
 
 Tested on manjaro linux, compiled using gcc.
