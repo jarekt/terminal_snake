@@ -23,6 +23,15 @@ requires [jlib](https://github.com/jarekt/jlib) - download it manually or run th
 ![windows](img/windows.png)
 * works even on windows!
 
+## Controlls
+- w - up
+- s - down
+- a - left
+- d - right
+- p - pause
+- q - quit
+
+
 ## Known problems
 - the speed increase value (when snake eats food) should be changed to a more fun value (this can be edited in the detect collision function)
 - you cannot resize your game when it's running - it will mess up the screen
