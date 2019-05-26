@@ -21,7 +21,8 @@ requires [jlib](https://github.com/jarekt/jlib) - download it manually or run th
 * low res example running in [cool retro term](https://github.com/Swordfish90/cool-retro-term)
 
 ![windows](img/windows.png)
-* works even on windows !
+* works even on windows!
 
 ## Known problems
 - the speed increase value (when snake eats food) should be changed to a more fun value (this can be edited in the detect collision function)
+- you cannot resize your game when it's running - it will mess up the screen
