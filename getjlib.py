@@ -3,7 +3,7 @@ import requests
 import zipfile
 import os
 
-url = 'https://github.com/jarekt/jlib/archive/v1.0.zip'
+url = 'https://github.com/jarekt/jlib/archive/v1.0.2.zip'
 folder = 'jlib'
 #zip conents into this ^ folder
 
