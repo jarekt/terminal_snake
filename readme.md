@@ -11,7 +11,7 @@ requires [jlib](https://github.com/jarekt/jlib) - download it manually or run th
 - **linux**: cd into the downloaded repo folder and type: *gcc src/snake.c jlib/src/linux.c -o snake*
 - **windows**: install microsoft visual studio and add ***snake.c jlib.h and windows.c*** to your project, then build
 ### Cmake
-- coming in v1.1!
+- coming soon!
 
 ## Demo pictures
 ![high_res](img/snake1.png)
