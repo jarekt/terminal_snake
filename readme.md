@@ -5,7 +5,7 @@ The game uses my simple cursor manipulation library ([jlib](https://github.com/j
 
 ## How to run
 ### Precompiled Executables
-- you can get a precombiled binary for your system in the releases tab
+- you can get a precompiled binary for your system in the releases tab
 ### Manual compilation
 - **linux**: cd into the downloaded repo folder and type: *gcc src/snake.c jlib/src/linux.c -o snake*
 - **windows**: install microsoft visual studio and add ***snake.c jlib.h and windows.c*** to your project, then build
@@ -25,4 +25,3 @@ The game uses my simple cursor manipulation library ([jlib](https://github.com/j
 ## Known problems
 - the speed increase value (when the snake eats food) should be changed to a more fun value (this can be edited in the detect collision function)
 
-Tested on manjaro linux, compiled using gcc.
