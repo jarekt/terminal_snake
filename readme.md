@@ -23,7 +23,7 @@ requires [jlib](https://github.com/jarekt/jlib) - download it manually or run th
 ![windows](img/windows.png)
 * works even on windows!
 
-## Controlls
+## Controls
 - w - up
 - s - down
 - a - left
