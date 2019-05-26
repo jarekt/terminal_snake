@@ -1,11 +1,11 @@
 Snake game written in c for terminal/winconsole with scaleable resolution
 ===
 
-The game uses my simple cursor manipulation library ([jlib](https://github.com/jarekt/jlib)) and scales with terminal resolution.
+The game uses my simple cursor manipulation library ([jlib](https://github.com/jarekt/jlib) - downlaod it manually or run the python script) and scales with terminal resolution.
 
 ## How to run
 ### Precompiled Executables
-- you can get a precompiled binary for your system in the releases tab
+- you can get a precompiled binary file for your system in the releases tab
 ### Manual compilation
 - **linux**: cd into the downloaded repo folder and type: *gcc src/snake.c jlib/src/linux.c -o snake*
 - **windows**: install microsoft visual studio and add ***snake.c jlib.h and windows.c*** to your project, then build
