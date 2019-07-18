@@ -12,7 +12,7 @@ requires [jlib](https://github.com/jarekt/jlib) - ~~download it manually or run 
 - **windows**: install microsoft visual studio and add ***snake.c jlib.h and windows.c*** to your project, then build
 ### Cmake
 - **cmake support added *!!***
-- for some compilers such as mingw you need to edit the CMakelists.txt of jlib
+- for some compilers such as mingw you need to edit the CMakeLists.txt of jlib
 
 ## Demo pictures
 ![high_res](img/snake1.png)
