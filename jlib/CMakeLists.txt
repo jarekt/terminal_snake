@@ -1,0 +1,8 @@
+project(jlib VERSION 1.3)
+if(UNIX)
+add_library(jlib src/linux.c)
+elseif(WIN32)
+add_library(jlib src/win32.c)
+else()
+message(FATAL_ERROR "unsupported platform")
+endif()
